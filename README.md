@@ -1,3 +1,10 @@
+# Explanation
+
+This is a ML code test when I did in November 2022 for an interview with a start-up. The time limit was ~12 hours. I was given this github repository in the morning and give it back to them in the evening of the same day. They provided the data and ProtMIMO/data_utils.py. I wrote ProtMIMO/model.py and ProtMIMO/train.py basically from scratch. To train the model, simply run python ProtMIMO/train.py. The full analysis of the model performance can be found at ProtMIMO/my_ProtMIMO.ipynb.
+
+## Below is the readme file for the ML coding challenge.
+
+
 # ProtMIMO-CodingChallenge
 
 This is a machine learning (for proteins) coding challenge.  It aims to assess general modeling skills as well as paper reading/implementation skills. It is intended to be done in PyTorch. 
